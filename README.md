@@ -1,3 +1,2 @@
-John Elder
-
+Valeriu Olariu
 Rails Crypto Project
